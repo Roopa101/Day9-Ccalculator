@@ -1,5 +1,5 @@
 echo "Enter 1st num"
-read a
+read c
 echo "Enter 2nd num"
 read b
 sum=$(($a+$b))
